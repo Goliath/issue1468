@@ -1,5 +1,5 @@
 package issue1468
 
-class Event {
+class Event implements AutoUnproxy {
     Person person
 }
